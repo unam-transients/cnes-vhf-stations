@@ -1,1 +1,1 @@
-# cnes-antennas
+# cnes-vhf-stations
